@@ -6,8 +6,11 @@ This project is a Streamlit-based application that extracts text from YouTube vi
 
 - **YouTube Text Extraction**: Extract subtitles or transcribe audio from YouTube videos.
 - **Google Search Scraping**: Crawl Google search results and extract relevant dialogues.
-- **Conversation Generation**: Generate conversational scripts using GPT or LLaMA models.
+- **Conversation Generation**: Generate conversational scripts using GPT4-o or LLaMA3 8b models.
 - **Review Conversations**: Cross-review generated conversations using different AI models.
+
+
+
 
 ## Installation
 
