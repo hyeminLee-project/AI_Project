@@ -11,6 +11,13 @@ This project is a Streamlit-based application that extracts text from YouTube vi
 
 
 
+##Architecture
+
+<img width="1431" alt="image" src="https://github.com/user-attachments/assets/3b5cb847-db55-46fd-a52f-426a90881a45">
+
+
+
+
 
 ## Installation
 
